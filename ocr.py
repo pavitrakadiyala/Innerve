@@ -18,7 +18,7 @@ from subprocess import Popen
 import argparse
 from textblob import TextBlob
 def get_image_path():
-	t=os.getcwd()+'/31.jpg'
+	t=os.getcwd()+'/25.jpg'
 	return t
 
 # load the example image and convert it to grayscale
