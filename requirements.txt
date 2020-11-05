@@ -1,0 +1,10 @@
+In order to run this project the following packages are required to be installed in the server.
+They can be installed by running pip install <package name>
+pytesseract
+python3
+pytesseract-OCR
+cv2
+langdetect
+TextBlob
+pillow
+PIL
